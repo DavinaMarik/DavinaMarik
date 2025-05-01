@@ -1,106 +1,60 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davina
-===========================================================================================================================
+# 👋 Hi, I'm Davina Marik
 
-Data Technician | Analytics Enthusiast | Python Learner
----------------------------------------------------
+🎯 *Career-Changer | Data Technician in Training | Insight-Driven and People-Focused*
 
+I'm currently completing a Level 3 Data Technician Bootcamp with JustIT, transitioning into tech after over 16 years in customer-focused and operational roles. I'm passionate about using data to improve processes, support teams, and drive smarter decisions.
 
-👋 Hi there! I’m Davina, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davina-jayne-marik-721958362)
+[![Google Site Portfolio](https://img.shields.io/badge/Portfolio-Google%20Site-green)](https://sites.google.com/view/davinamarik/home)
+[![Gmail](https://img.shields.io/badge/Email-DavinaMarik22@gmail.com-red?logo=gmail&logoColor=white)](mailto:davinamarik22@gmail.com)
 
-## About Me 🎓 
+---
 
+## 💡 About Me
 
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+- 💼 Former retail and operations professional at WM Morrisons
+- 📊 Gaining hands-on experience in data analysis, visualisation, and reporting
+- 🔍 Focused on operations, compliance, and customer experience use cases
+- 🐍 Currently diving deeper into Python, Power BI, and real-world datasets
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+---
 
-## Projects
+## 🛠️ Technical Skills
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+**Languages & Tools:**  
+`Python` • `SQL` • `Power BI` • `Tableau` • `Excel` • `Pandas` • `Seaborn` • `Matplotlib`
 
+**Other:**  
+Data Cleaning • Data Visualisation • GDPR Awareness • MS Office • Digital Communication Tools
 
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+---
 
-### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+## 📁 Featured Projects
 
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+| Project | Tools | Description |
+|--------|--------|-------------|
+| [Retail Sales Dashboard](#) | Excel, Power BI | Visualises product sales, trends, and performance metrics |
+| [SQL Customer Retention](#) | SQL | Uses queries to identify patterns in repeat customer behaviour |
+| [TTTS Health Data Analysis](#) | Python (Pandas, Seaborn) | An exploratory analysis of preterm birth and TTTS outcomes |
+| [Business Operations Summary](#) | Tableau | Interactive dashboard for operational KPIs from mock data |
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+> 📌 *More projects will be added as they’re completed — check back soon!*
 
-### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+---
 
-### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+## 📊 GitHub Stats
 
-### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavinaMarik&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavinaMarik&layout=compact)
 
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+---
 
+## 📫 Let's Connect
 
+📧 **Email:** [davinamarik22@gmail.com](mailto:davinamarik22@gmail.com)  
+🔗 **Portfolio:** [Google Site](https://sites.google.com/view/davinamarik/home)  
+💼 **LinkedIn:** [davina-jayne-marik](https://www.linkedin.com/in/davina-jayne-marik-721958362)
 
+---
 
-
-* 🌍  I'm based in Derbyshire
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
-   <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer; return false;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="72" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
-
-</p>
-
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
-
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali06112023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
-
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
+*Thanks for stopping by! I'm always open to networking, feedback, or data conversations.*  
